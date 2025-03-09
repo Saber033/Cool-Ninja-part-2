@@ -1,6 +1,6 @@
 [configuration]
 
-entry_symbol = "cool_ninja"
+entry_symbol = "cool_ninja_extensions_init"
 compatibility_minimum = "4.1"
 
 [libraries]
